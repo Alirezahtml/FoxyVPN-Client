@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Official Telegram circular background -->
+    <path
+        android:fillColor="#229ED9"
+        android:pathData="M12,0 C5.37,0 0,5.37 0,12 C0,18.63 5.37,24 12,24 C18.63,24 24,18.63 24,12 C24,5.37 18.63,0 12,0 Z" />
+    <!-- Lower shadow fold -->
+    <path
+        android:fillColor="#B5E2F7"
+        android:pathData="M9.8,17.2 L9.3,13.8 L12.1,15.6 Z" />
+    <!-- Inner fold -->
+    <path
+        android:fillColor="#C8DAEA"
+        android:pathData="M9.8,17.2 L12.1,15.6 L10.8,14.7 Z" />
+    <!-- Main white paper plane wings and body -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M5.4,11.7 L17.6,6.9 C18.2,6.6 18.7,7.0 18.5,7.6 L16.4,17.5 C16.2,18.3 15.7,18.5 15.0,18.1 L11.8,15.7 L10.3,17.2 C10.1,17.4 9.9,17.6 9.5,17.6 L9.7,14.5 L15.4,9.3 C15.6,9.1 15.3,9.0 15.0,9.2 L8.0,13.6 L5.0,12.7 C4.3,12.5 4.3,12.0 5.4,11.7 Z" />
+</vector>
